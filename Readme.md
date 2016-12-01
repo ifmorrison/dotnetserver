@@ -1,4 +1,8 @@
-Allow deployment of small free linux instance on dply.com with dotnet core app
+Allow deployment of small free linux instance on dply.co with dotnet core app
 
+Deploy to Ubuntu 14.04
+[][![Dply](https://dply.co/b.svg)](https://dply.co/b/ixaKWa3i) 
 
-[![Dply](https://dply.co/b.svg)](https://dply.co/b/vGoTY7zj) 
+Deploy to Ubuntu 16.04
+[][![Dply](https://dply.co/b.svg)](https://dply.co/b/o1GYTOHo) 
+
