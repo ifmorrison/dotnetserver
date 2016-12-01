@@ -10,10 +10,11 @@
 #sudo apt-get install -y dotnet-dev-1.0.0-preview2-003121
 
 #install dotnet core for ubuntu 16.04
-sudo sh -c 'echo "deb [arch=amd64] https://apt-mo.trafficmanager.net/repos/dotnet-release/ yakkety main" > /etc/apt/sources.list.d/dotnetdev.list'
+sudo sh -c 'echo "deb [arch=amd64] https://apt-mo.trafficmanager.net/repos/dotnet-release/ xenial main" > /etc/apt/sources.list.d/dotnetdev.list'
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 417A0893
 sudo apt-get update
-sudo apt-get install -y dotnet-dev-1.0.0-preview2-003121
+sudo apt-get install dotnet-dev-1.0.0-preview2.1-003177
+
 
 #download application
 sudo wget https://raw.github.com/Microsoft/dotnet-core-sample-templates/master/dotnet-core-music-linux/music-app/music-store-azure-demo-pub.tar /
